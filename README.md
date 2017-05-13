@@ -49,4 +49,6 @@ Add the PNG file and R code file to your git repository
 
 When you are finished with the assignment, push your git repository to GitHub so that the GitHub version of your repository is up to date. There should be four PNG files and four R code files.
 
+In addition to code generating each plot, there is a script to generate the usable data set in the scripts directory call power_consumption_Loading.R. This script downloads, unzips, reads, cleanses, and filters the data so the plots can be reproduced at anytime.
+
 
